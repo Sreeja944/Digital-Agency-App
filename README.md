@@ -1,4 +1,4 @@
-## Digital Agency App
+## Digital Agency App(learning purpose)
 
 A responsive digital agency website built using HTML, CSS.
 

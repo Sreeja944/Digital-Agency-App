@@ -1,6 +1,6 @@
 ## Digital Agency App
 
-A responsive e-commerce website built using HTML, CSS.
+A responsive digital agency website built using HTML, CSS.
 
 ### Features
 - Responsive design
